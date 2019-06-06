@@ -1,0 +1,16 @@
+D:\school drive\OneDrive - UWI School of Business and Applied Studies Limited (ROYTEC)\FINAL PROJECT\Software\Employee Tracker\Employee Tracker\bin\Debug\Employee Tracker.exe.config
+D:\school drive\OneDrive - UWI School of Business and Applied Studies Limited (ROYTEC)\FINAL PROJECT\Software\Employee Tracker\Employee Tracker\bin\Debug\Employee Tracker.exe
+D:\school drive\OneDrive - UWI School of Business and Applied Studies Limited (ROYTEC)\FINAL PROJECT\Software\Employee Tracker\Employee Tracker\bin\Debug\Employee Tracker.pdb
+D:\school drive\OneDrive - UWI School of Business and Applied Studies Limited (ROYTEC)\FINAL PROJECT\Software\Employee Tracker\Employee Tracker\bin\Debug\Employee Tracker.xml
+D:\school drive\OneDrive - UWI School of Business and Applied Studies Limited (ROYTEC)\FINAL PROJECT\Software\Employee Tracker\Employee Tracker\obj\Debug\Employee_Tracker.Resources.resources
+D:\school drive\OneDrive - UWI School of Business and Applied Studies Limited (ROYTEC)\FINAL PROJECT\Software\Employee Tracker\Employee Tracker\obj\Debug\Employee Tracker.vbproj.GenerateResource.Cache
+D:\school drive\OneDrive - UWI School of Business and Applied Studies Limited (ROYTEC)\FINAL PROJECT\Software\Employee Tracker\Employee Tracker\obj\Debug\Employee Tracker.exe
+D:\school drive\OneDrive - UWI School of Business and Applied Studies Limited (ROYTEC)\FINAL PROJECT\Software\Employee Tracker\Employee Tracker\obj\Debug\Employee Tracker.xml
+D:\school drive\OneDrive - UWI School of Business and Applied Studies Limited (ROYTEC)\FINAL PROJECT\Software\Employee Tracker\Employee Tracker\obj\Debug\Employee Tracker.pdb
+D:\school drive\OneDrive - UWI School of Business and Applied Studies Limited (ROYTEC)\FINAL PROJECT\Software\Employee Tracker\Employee Tracker\obj\Debug\Employee_Tracker.EmployeeEntry.resources
+D:\school drive\OneDrive - UWI School of Business and Applied Studies Limited (ROYTEC)\FINAL PROJECT\Software\Employee Tracker\Employee Tracker\obj\Debug\Employee_Tracker.Incomplete_Employee_View.resources
+D:\school drive\OneDrive - UWI School of Business and Applied Studies Limited (ROYTEC)\FINAL PROJECT\Software\Employee Tracker\Employee Tracker\obj\Debug\Employee_Tracker.MainForm.resources
+D:\school drive\OneDrive - UWI School of Business and Applied Studies Limited (ROYTEC)\FINAL PROJECT\Software\Employee Tracker\Employee Tracker\bin\Debug\Employee Tracker.exe.manifest
+D:\school drive\OneDrive - UWI School of Business and Applied Studies Limited (ROYTEC)\FINAL PROJECT\Software\Employee Tracker\Employee Tracker\bin\Debug\Employee Tracker.application
+D:\school drive\OneDrive - UWI School of Business and Applied Studies Limited (ROYTEC)\FINAL PROJECT\Software\Employee Tracker\Employee Tracker\obj\Debug\Employee Tracker.exe.manifest
+D:\school drive\OneDrive - UWI School of Business and Applied Studies Limited (ROYTEC)\FINAL PROJECT\Software\Employee Tracker\Employee Tracker\obj\Debug\Employee Tracker.application
